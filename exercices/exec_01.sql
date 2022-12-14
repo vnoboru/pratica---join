@@ -1,4 +1,4 @@
-SELECT users.id, users.name, cities.name 
+SELECT users.id, users.name, cities.name
 AS city
 FROM users
 JOIN cities 
